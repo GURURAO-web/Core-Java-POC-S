@@ -87,27 +87,7 @@ For projects that use MySQL:
 
 **Security note:** Do not commit real database passwords or other secrets to GitHub. Use environment variables or a local configuration file excluded through `.gitignore`. Use `PreparedStatement` with parameterized queries for user input.
 
-## Suggested Repository Structure
 
-```text
-Java-Console-Projects/
-├── README.md
-├── ArrayOperations/
-│   └── src/
-├── LibraryManagementSystem/
-│   └── src/
-├── OnlineShoppingOrderSystem/
-│   └── src/
-├── TicTacToe/
-│   └── src/
-├── StudentManagementSystem/
-│   └── src/
-├── BankingSystem/
-│   └── src/
-└── JDBCLoginApplication/
-    ├── src/
-    └── database/
-```
 
 Adjust this structure to match your actual folders. If projects are separate Eclipse projects, keep their individual source folders and configuration files as needed.
 
