@@ -9,6 +9,14 @@ This repository contains hands-on Java projects ranging from beginner-level prog
 ## Projects
 
 > Add or update project folder names below to match the projects available in this repository.
+> 1. All the Patterns using loops
+> 2. Employee Management System
+> 3. Book My Show
+> 4. Payment System
+> 5. Online Shopping System
+> 6. Library Management System
+> 7. Employee Management System
+> 8. DSA
 
 
 ## Key Skills Demonstrated
