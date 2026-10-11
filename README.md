@@ -10,16 +10,6 @@ This repository contains hands-on Java projects ranging from beginner-level prog
 
 > Add or update project folder names below to match the projects available in this repository.
 
-| # | Project | Description | Concepts Practiced |
-|---|---|---|---|
-| 1 | Array Operations | Performs common operations on arrays, such as searching and processing elements. | Arrays, loops, methods |
-| 2 | Library Management System | A menu-driven application to manage books and basic library operations. | Classes, objects, encapsulation, collections, loops |
-| 3 | Online Shopping Order System | Simulates product selection and order processing in a console. | Arrays, conditionals, methods, input handling |
-| 4 | Tic-Tac-Toe Game | A two-player console game with win and draw detection. | Arrays, loops, methods, conditional logic |
-| 5 | Student Management System | Manages student information and basic student-related operations. | OOP, classes, objects, CRUD logic |
-| 6 | Banking System | Simulates basic banking operations such as deposits, withdrawals, and balance checks. | Encapsulation, methods, validation |
-| 7 | JDBC Login Application | Demonstrates database-backed login and credential validation. | JDBC, SQL, `PreparedStatement`, exception handling |
-| 8 | Other Java Practice Programs | Small programs for practicing Java syntax, logic, and data processing. | Variables, operators, loops, arrays, methods |
 
 ## Key Skills Demonstrated
 
@@ -104,14 +94,7 @@ Through these projects, I practice translating requirements into program logic, 
 - Add screenshots or sample console output to each project folder.
 - Expand selected applications into web-based projects.
 
-## Author
 
-**Your Name**
 
-- GitHub: [Add your GitHub profile URL]
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email address]
-
----
 
 *This repository is a learning portfolio. Features and technologies vary by project; refer to each project's source code and documentation for exact implementation details.*
